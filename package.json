@@ -1,0 +1,13 @@
+{
+  "name": "tic-tac-toe-tron",
+  "version": "1.0.0",
+  "description": "Implement tic tac toe game from scratch.",
+  "main": "index.js",
+  "repository": "https://github.com/Victorkjngo/tic-tac-toe-tron.git",
+  "author": "Victor Ngo <psychosete@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.5"
+  }
+}
